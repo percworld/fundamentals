@@ -45,6 +45,8 @@ Table of Contents:
 - Caching (redis)
 - Clusters (kubernetes)
 - MVC Controllers/Views (vue)
+- Take this chance to Break and Fix/Forget: madcap branching without concern
+
 ## What this project is about:
 
 The heart of this project is merely the implementation of a set of core skills that demonstrate your individual ability to build a web application with these fundamentals in mind.
